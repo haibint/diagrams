@@ -1,1 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2021-12-12T03:52:45.844Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="K4emv7xgP7DFucAzeV0I" version="15.9.4" type="github"><diagram id="UfmZcZUgszk8OOR1oBgz" name="Page-1">7Zpdc6M2FIZ/jWbai/UgPqVLwGTbmaTd2XSm00sZZJtdjDyg1PH++h4JYcCQNM4mzg1jLqRXEkLSw9E5wsiJd4+fK7bf3omMF8i2skfkLJFtY9e2kbqs7NgoAXUaYVPlmanUCff5D25Ey6gPecbrQUUpRCHz/VBMRVnyVA40VlXiMKy2FsWw1z3b8JFwn7JirP6dZ3LbqMQOOv03nm+2bc/Yp03JjrWVzUjqLcvEoSc5CXLiSgjZpHaPMS/U5LXz0rS7eaL09GAVL+VLGhw39vrTn9lt/Y/1x5397ffl6q8vn8xd/mXFgxkwSgiKPERclLgoClEYaMVF9AYloFtKBCXEKCQouUFRjAgkAhQliCS6DlxOW2Smo5bHdkrrQ74rWAm5aC1KeW9KLMin27zIbtlRPKgh1ZKl39tctBVV/gPqswKKMAhQXElDjGMNatyrluaeFa+hzpd2nvCZdMceBxVvWS3bpxFFwfZ1vtLPpxruWLXJy0hIKXam0ngZ2jnlleSPPcksy2cudlxWR6hiSokhxLwijuc3+UMHHHZNnW0PttNLwgzkm9OtT719hZeClRsYwak7bJ33Z72sP+esO1ZIXpVM8kg8lFndpw8SvZF2kmbyAj7tCT4DhVlkoYQiEiCKMbyMDavRTQekHWFvJI9hhCWSmqVKfOexKESldYfYK8f3FaJ5UfT0zOMkc0FnRb4pQSv4Wt1ArXYOZiM08i7PMtVHVO9ZmpebW11t6XbKVzOxShLQfF1o67CFhhzuEO1FXko9014EF8x9bC085MFTxJDHXR4uVb2SsShhICzXJHIA+cAVzFElJJNsdXrNxsw+axz+H+TjEJBLQepzOyDoUlycCVw8RMEe+TrhIIJVAqCANCTCJaJE2ewTKTMg7wiI/9GAuBOAwMpHBocTF2BhCBT5ypIo8wH7XaI2OIWMC2YH1n9G5irI0I9Ghk7aFEWK27JDjIsU+gqZMAZSMPUuB2RFPNezxoCsScrTdAZkEhBsfzQhrRs2QISqbUeZDh/ReOg8QwL8aoxxMCNyHURe6+G+GSL2tBUB/xWYGEVcGIzexWT4KeGr9cTuwjhZz2Q8QQb5aDK8aTDA4aDKdkS+3lXmePsN423bdc8C4ImAm/pjCJ4NuH+KAv9FgQtVPocyGJ5KhIlL3ZOd+OUo1BBV3OsvAmR7v85+6QWWw3sxRM/EulPMvJvhCKZDGfA1tItBceeXRpQuvAlS6ILOoLw3KFMx71VBwS8zLjrWVY6HdljD2HX6pyJWz74EC+cibGaf9RXYTMW918VmysDo0xDjnS4VJ2NsJg5jzwzO5aexM0GvIGgyML4qQs5UYBwoP1Y5rmZrchbjc3qiD9oSRBPt9FDl4nYN9QcAEtiW9nNmmq5D01QMfVWabPJcDH0eM2FnYc9B9HXQmAqir2toxt8JY1HLVIAGv+abDwV7QwwokYWx2bKMsVmisP0EoAJuAIdoTzpQJ7zhk8ZlK3ddfNyHqRRNxN3jyEgtQiksA6+eg+iwzSW/B25Un4eK7fWiPpQZz8yS6oC+Cclhv36T6Bj79jA6xhOrS97miASy3R8gmm/G3d9InOQ/</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-12T06:32:58.413Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="Od1ef3wD96JfbtirlhZh" version="15.9.4" type="github">
+  <diagram id="UfmZcZUgszk8OOR1oBgz" name="Page-1">
+    <mxGraphModel dx="981" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yg2f-OdLsY0NM2jIDbTP-1" value="资产负债表（美元）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="50" y="350" width="190" height="240" as="geometry">
+            <mxRectangle x="100" y="350" width="140" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yg2f-OdLsY0NM2jIDbTP-2" value="现金等价物 279亿（QoQ -50亿）" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="yg2f-OdLsY0NM2jIDbTP-1" vertex="1">
+          <mxGeometry y="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yg2f-OdLsY0NM2jIDbTP-3" value="信用卡客户应收账款487亿" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="yg2f-OdLsY0NM2jIDbTP-1" vertex="1">
+          <mxGeometry y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yg2f-OdLsY0NM2jIDbTP-4" value="信用卡客户贷款735亿**" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;" parent="yg2f-OdLsY0NM2jIDbTP-1" vertex="1">
+          <mxGeometry y="90" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_scnfwicN0OqMZllfAQ0-2" value="投资证券96" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="yg2f-OdLsY0NM2jIDbTP-1">
+          <mxGeometry y="120" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yg2f-OdLsY0NM2jIDbTP-9" value="客户存款843亿" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="yg2f-OdLsY0NM2jIDbTP-1" vertex="1">
+          <mxGeometry y="150" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yg2f-OdLsY0NM2jIDbTP-10" value="长期债务635亿" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="yg2f-OdLsY0NM2jIDbTP-1" vertex="1">
+          <mxGeometry y="180" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yg2f-OdLsY0NM2jIDbTP-29" value="净资产119亿" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="yg2f-OdLsY0NM2jIDbTP-1" vertex="1">
+          <mxGeometry y="210" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yg2f-OdLsY0NM2jIDbTP-5" value="浓缩利润表（近9个月, 美元）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="350" width="190" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="yg2f-OdLsY0NM2jIDbTP-6" value="商家手续费182亿" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="yg2f-OdLsY0NM2jIDbTP-5" vertex="1">
+          <mxGeometry y="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yg2f-OdLsY0NM2jIDbTP-7" value="信用卡费56亿" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="yg2f-OdLsY0NM2jIDbTP-5" vertex="1">
+          <mxGeometry y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_scnfwicN0OqMZllfAQ0-3" value="贷款利息收入65亿" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="yg2f-OdLsY0NM2jIDbTP-5">
+          <mxGeometry y="90" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yg2f-OdLsY0NM2jIDbTP-16" value="利息支出10亿 " style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="yg2f-OdLsY0NM2jIDbTP-5" vertex="1">
+          <mxGeometry y="120" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yg2f-OdLsY0NM2jIDbTP-17" value="贷款坏账7.35亿***" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="yg2f-OdLsY0NM2jIDbTP-5" vertex="1">
+          <mxGeometry y="150" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_scnfwicN0OqMZllfAQ0-5" value="营销费用63亿" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="yg2f-OdLsY0NM2jIDbTP-5">
+          <mxGeometry y="180" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_scnfwicN0OqMZllfAQ0-6" value="客户福利93亿" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="yg2f-OdLsY0NM2jIDbTP-5">
+          <mxGeometry y="210" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_scnfwicN0OqMZllfAQ0-7" value="员工工资及其他开销75亿" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="yg2f-OdLsY0NM2jIDbTP-5">
+          <mxGeometry y="240" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yg2f-OdLsY0NM2jIDbTP-30" value="税费20亿（实际税率24.3%）" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="yg2f-OdLsY0NM2jIDbTP-5" vertex="1">
+          <mxGeometry y="270" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yg2f-OdLsY0NM2jIDbTP-28" value="净利润35亿（年化46亿）" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="yg2f-OdLsY0NM2jIDbTP-5" vertex="1">
+          <mxGeometry y="300" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yg2f-OdLsY0NM2jIDbTP-32" value="美国运通财务状况浓缩图&lt;span style=&quot;font-size: 12px ; text-align: left&quot;&gt;*&lt;/span&gt;&lt;br&gt;（2021年9月）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="240" y="310" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_scnfwicN0OqMZllfAQ0-4" value="&lt;span&gt;*&lt;/span&gt;&lt;span&gt;浓缩的财务状况省略了数额较小的项目&lt;/span&gt;&lt;span&gt;&lt;br&gt;*&lt;/span&gt;&lt;span&gt;*&lt;/span&gt;&lt;span&gt;客户贷款的平均年利率估算为为11.7%&lt;br&gt;&lt;/span&gt;&lt;span&gt;***2021年前9个月的坏账都以及在2020年时提前减值了，我们这里以1%的坏账率来估计。&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="683" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_scnfwicN0OqMZllfAQ0-8" value="净利润分配（近9个月, 美元）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;labelBackgroundColor=none;align=center;" vertex="1" parent="1">
+          <mxGeometry x="480" y="350" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_scnfwicN0OqMZllfAQ0-10" value="分红11亿" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;" vertex="1" parent="_scnfwicN0OqMZllfAQ0-8">
+          <mxGeometry y="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_scnfwicN0OqMZllfAQ0-11" value="回购47亿" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;" vertex="1" parent="_scnfwicN0OqMZllfAQ0-8">
+          <mxGeometry y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_scnfwicN0OqMZllfAQ0-12" value="总回报股东58亿" style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;labelBackgroundColor=none;" vertex="1" parent="_scnfwicN0OqMZllfAQ0-8">
+          <mxGeometry y="90" width="190" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
