@@ -1,1 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2021-12-24T15:29:08.336Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="DTKVkwVv0tbPFR0dc9AM" version="16.1.0" type="github"><diagram id="UfmZcZUgszk8OOR1oBgz" name="Page-1">7Zpfc9o4EMA/jV4yQ8f/LT/aBnrXgbZ3ucnN3cuNsQU4NRZnnEL66bsryWCKQqAXSGbOEyaRV5IlrX5a7S4hdrzYvK+S5XzMM1YQy8g2xO4TyzJNx4Q/KHmUEs93pGBW5ZlqtBPc5t+YEhpK+pBnbLXXsOa8qPPlvjDlZcnSek+WVBVf7zeb8mJ/1GUyYweC2zQpDqV/5lk9l1Jq+Tv5LyyfzZuRTS+QNYukaaxWsponGV+3RPaA2HHFeS1Li03MClReoxfZb/hE7XZiFSvrUzo8zqxp71M2Wv1lfBxb97/2J3987rnyLV+T4kEtmAwoCQwSumTgkcAhkUcGQxLFhFJoSAY+iQaEDsjAJRQ+dlOrlr2qHxvVrdb5okhKeIqmvKxvVY0Bz+k8L7JR8sgfcOqrOkm/NE/RnFf5N2ifFFBlggCqq1qRYRt7LW6xp3pnxVbQ5nOjD/MH0TjZ7DUcJau6mQ0vimS5yidifthxkVSzvIx4XfOFanSobrUDX1lVs01LpNT/nvEFq6tHaKJqGxLUUbCpel7vwDIDJZu3oWoaJgrm2fbVu/2GgtryM7bf02w/7LpLIgc5iPok9MROU8FBQGAmIUAAWAAloagKSQjLNuDHFRUhiYYHLICGarGVFf/CYl7wSshtak1sz0NC8qJoyTOX0cwBeVLksxJkBZviC1DZOZzOUIkXeZbhGNFqmaR5ORuJZn1nJ/ld6RFFHLpPC3EI59CRwRuiJc/LWujVjeADmo6Ndy5xYRYxPJu7Z/hg86qOeQkLSXIBAgOO1gxZiipeJ3Uy2VJ+iMzRM/g8Rw04J3JjXwobX2s10C64DRIB0gK/QagKXkPUUGASCckhSB04lwPHuyI4bHE/djZ31ujuw/hu9CG9+3if9CytvQFdARc7e+OgBQn6CE4g2OkwOYLJwfafSs6TmARXxOSfVVpO13n60fj07/jvopiGvxk9W2tfwNdATDy8YgLtJdRBcTnbYVqvfetYVGs9wCWBy+TQaz2VhsybeK6Ghul0aqVpR4OeBve1abB1d4mPcUgUCAg84WkAHxEIt97pvsXAgkmoj/iEA3RWnqBmXi924UgboJLLAKfFjhI12KSgelYdA2c9z2t2C6zgmGuIo8VGPpQZy9Q2ivhJRkCm/0LBiP1DNKLxKi2PXtHqO4cbanlFLc9RCeUZlm8aIYzRluvaisvCJYEtwtZYuBI+AkBleOOQ0GrB4GMhkgGP6IiNYyQEC66wLiLAgVoVJhnCu7WEtyI9YBu7g5wOW2MF+P5Ijh4haWesQckm1c9o4DxtuTi1UFpVWI2vlIQFOE2xcOa3a3JxQZFYLqwez5CUOCpglMqmA1HloPojkT6AIQJfnUXQZVMwzXcQVriHyz1ntTc3cNDN/ZlA0NpvXMgwFBsnkhntleAChg0SMtCVzoYIVEIZ1QwRD2wMIFEMeFvjeLimSGAB7QJjO7Io+OLtrriq4hZDMnMSK30HZjNeLKYyRO8Xp+KLNmoqJirp2Ny3OvewSjErlS+MHJJu41So9Z8wvEznFze/z93azxvfFzC2wb6t9TS+lO1rbs+XSPxoAzGdhy0uzCBqHV+V95OXZ8M6+CRdHvCZoOvMq/eqiUAtD5q79ycTgV0MdiIjT5/LN5H4005P/3VBl/h76+C8euJP/0VDl/h7W5hcM/GnnZ7+i4Uu8feaUFw18aed39G834HX2uX9LgnDNfN+2vkFGhhkiG20IhcPnYzQ60KYC4Uwjk2fDWEsx9KEMNalwDD1CWGwETI9sv16gIqyzAOF8cn2YkJdxzU09oKm7H9sL4JzIxYtFhczF6Yu0yESYtRseRKeyNbJjJ7MT/okpGgcOjwuiIcmLrkuHttU3mnXCRgvbGMc9T+M3il2p9dCzCCxhemUU1nzUsomU40fmzA67Vg7Obh5Kdbgcfd/nKKu9d+w9uA7</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-12-24T17:26:06.667Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="8knNGya5BofRrZATFpA4" version="16.1.0" type="github">
+  <diagram id="UfmZcZUgszk8OOR1oBgz" name="Page-1">
+    <mxGraphModel dx="891" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yg2f-OdLsY0NM2jIDbTP-5" value="营收（ 美元）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="20" y="380" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="yg2f-OdLsY0NM2jIDbTP-6" value="整车制造业务 2025亿" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="yg2f-OdLsY0NM2jIDbTP-5" vertex="1">
+          <mxGeometry y="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yg2f-OdLsY0NM2jIDbTP-7" value="辅助驾驶软件业务 40.5亿" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="yg2f-OdLsY0NM2jIDbTP-5" vertex="1">
+          <mxGeometry y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="emjM4xV2LVJMVLJcVNja-2" value="汽车保险业务 60亿" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="yg2f-OdLsY0NM2jIDbTP-5" vertex="1">
+          <mxGeometry y="90" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_scnfwicN0OqMZllfAQ0-3" value="能源业务（不考虑）" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="yg2f-OdLsY0NM2jIDbTP-5" vertex="1">
+          <mxGeometry y="120" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yg2f-OdLsY0NM2jIDbTP-28" value="总营收2065.5亿" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="yg2f-OdLsY0NM2jIDbTP-5" vertex="1">
+          <mxGeometry y="150" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yg2f-OdLsY0NM2jIDbTP-32" value="特斯拉2025业务假设" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" parent="1" vertex="1">
+          <mxGeometry x="230" y="330" width="268" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_scnfwicN0OqMZllfAQ0-4" value="&lt;span&gt;*&lt;/span&gt;&lt;span&gt;浓缩的财务状况省略了数额较小的项目&lt;/span&gt;&lt;span&gt;&lt;br&gt;*&lt;/span&gt;&lt;span&gt;*&lt;/span&gt;&lt;span&gt;客户贷款的平均年利率估算为为11.7%&lt;br&gt;&lt;/span&gt;&lt;span&gt;***2021年前9个月的坏账都以及在2020年时提前减值了，我们这里以1%的坏账率来估计。&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;&lt;span&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="90" y="620" width="370" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="emjM4xV2LVJMVLJcVNja-3" value="毛利（2025年, 美元）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="230" y="380" width="190" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="emjM4xV2LVJMVLJcVNja-4" value="整车制造业务 617亿" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="emjM4xV2LVJMVLJcVNja-3" vertex="1">
+          <mxGeometry y="30" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="emjM4xV2LVJMVLJcVNja-5" value="辅助驾驶软件业务 40.5亿" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="emjM4xV2LVJMVLJcVNja-3" vertex="1">
+          <mxGeometry y="60" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="emjM4xV2LVJMVLJcVNja-6" value="汽车保险业务 3亿" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="emjM4xV2LVJMVLJcVNja-3" vertex="1">
+          <mxGeometry y="90" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="emjM4xV2LVJMVLJcVNja-7" value="能源业务（不考虑）" style="text;strokeColor=#82b366;fillColor=#d5e8d4;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="emjM4xV2LVJMVLJcVNja-3" vertex="1">
+          <mxGeometry y="120" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="emjM4xV2LVJMVLJcVNja-8" value="总毛利 660.5亿" style="text;strokeColor=#d6b656;fillColor=#fff2cc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="emjM4xV2LVJMVLJcVNja-3" vertex="1">
+          <mxGeometry y="150" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="emjM4xV2LVJMVLJcVNja-9" value="净利润（2025年, 美元）" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="438" y="380" width="242" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="emjM4xV2LVJMVLJcVNja-12" value="经营成本 300亿" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="emjM4xV2LVJMVLJcVNja-9" vertex="1">
+          <mxGeometry y="30" width="242" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="emjM4xV2LVJMVLJcVNja-13" value="企业所得税 76亿" style="text;strokeColor=#b85450;fillColor=#f8cecc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="emjM4xV2LVJMVLJcVNja-9" vertex="1">
+          <mxGeometry y="60" width="242" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="emjM4xV2LVJMVLJcVNja-21" value="净利润 = 总毛利 -经营成本-税=285亿  " style="text;strokeColor=#6c8ebf;fillColor=#dae8fc;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" parent="emjM4xV2LVJMVLJcVNja-9" vertex="1">
+          <mxGeometry y="90" width="242" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
