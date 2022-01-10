@@ -1,1 +1,243 @@
-<mxfile host="app.diagrams.net" modified="2022-01-09T10:55:08.497Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" version="16.2.2" etag="DSdcJ_WPudCS9QkI2Vq3" type="github"><diagram id="WPZmuAnMhhIr0lvHXZcs">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-01-10T16:49:51.868Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.4 Safari/605.1.15" etag="QlqYegmT-jE_4os9laPg" version="16.2.2" type="github">
+  <diagram id="WPZmuAnMhhIr0lvHXZcs" name="Page-1">
+    <mxGraphModel dx="548" dy="324" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-1" value="2025年价值：&lt;br&gt;7500亿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n4Z13ORZ9aHJKsfUeBVT-2" target="n4Z13ORZ9aHJKsfUeBVT-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-13" value="上涨10%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#00CC00;" vertex="1" connectable="0" parent="n4Z13ORZ9aHJKsfUeBVT-12">
+          <mxGeometry x="-0.0435" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-2" value="2022年价值：&lt;br&gt;5468亿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n4Z13ORZ9aHJKsfUeBVT-3" target="n4Z13ORZ9aHJKsfUeBVT-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-15" value="上涨10%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#00CC00;" vertex="1" connectable="0" parent="n4Z13ORZ9aHJKsfUeBVT-14">
+          <mxGeometry x="0.0716" relative="1" as="geometry">
+            <mxPoint x="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-3" value="2023年价值：&lt;br&gt;6075亿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n4Z13ORZ9aHJKsfUeBVT-4" target="n4Z13ORZ9aHJKsfUeBVT-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-17" value="上涨10%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#00CC00;" vertex="1" connectable="0" parent="n4Z13ORZ9aHJKsfUeBVT-16">
+          <mxGeometry x="0.0253" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-4" value="2024年价值：&lt;br&gt;6750亿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="476.84000000000003" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-8" value="特斯拉2022年价值：&lt;br&gt;5468亿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontColor=#00CC00;" edge="1" parent="1" source="n4Z13ORZ9aHJKsfUeBVT-9" target="n4Z13ORZ9aHJKsfUeBVT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-19" value="假设10%回报&lt;br&gt;持续3年" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#00CC00;" vertex="1" connectable="0" parent="n4Z13ORZ9aHJKsfUeBVT-18">
+          <mxGeometry x="-0.0711" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-9" value="特斯拉2025年价值：&lt;br&gt;7500亿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="n4Z13ORZ9aHJKsfUeBVT-20" target="n4Z13ORZ9aHJKsfUeBVT-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-77" value="每辆车平均售价5万美元" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="n4Z13ORZ9aHJKsfUeBVT-70">
+          <mxGeometry x="0.0794" relative="1" as="geometry">
+            <mxPoint y="-12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-20" value="2025年交付量：&lt;br&gt;327万" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n4Z13ORZ9aHJKsfUeBVT-23" target="n4Z13ORZ9aHJKsfUeBVT-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-22" value="增长40%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#00CC00;" vertex="1" connectable="0" parent="n4Z13ORZ9aHJKsfUeBVT-21">
+          <mxGeometry x="-0.0435" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="n4Z13ORZ9aHJKsfUeBVT-23" target="n4Z13ORZ9aHJKsfUeBVT-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-71" value="每辆车平均售价5万美元" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="n4Z13ORZ9aHJKsfUeBVT-67">
+          <mxGeometry x="-0.0794" relative="1" as="geometry">
+            <mxPoint y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-23" value="2022年交付量：&lt;br&gt;150万" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n4Z13ORZ9aHJKsfUeBVT-26" target="n4Z13ORZ9aHJKsfUeBVT-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-25" value="增长30%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#00CC00;" vertex="1" connectable="0" parent="n4Z13ORZ9aHJKsfUeBVT-24">
+          <mxGeometry x="0.0716" relative="1" as="geometry">
+            <mxPoint x="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="n4Z13ORZ9aHJKsfUeBVT-26" target="n4Z13ORZ9aHJKsfUeBVT-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-72" value="&lt;span style=&quot;color: rgba(0 , 0 , 0 , 0) ; font-family: monospace ; font-size: 0px ; background-color: rgb(248 , 249 , 250)&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%AF%8F%E8%BE%86%E8%BD%A6%E5%B9%B3%E5%9D%87%E5%94%AE%E4%BB%B75%E4%B8%87%E7%BE%8E%E5%85%83%22%20style%3D%22edgeLabel%3Bhtml%3D1%3Balign%3Dcenter%3BverticalAlign%3Dmiddle%3Bresizable%3D0%3Bpoints%3D%5B%5D%3BfontColor%3D%23000000%3B%22%20vertex%3D%221%22%20connectable%3D%220%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22140%22%20y%3D%22557.6190476190475%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="n4Z13ORZ9aHJKsfUeBVT-68">
+          <mxGeometry x="0.0794" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-75" value="每辆车平均售价5万美元" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="n4Z13ORZ9aHJKsfUeBVT-68">
+          <mxGeometry x="-0.1429" y="2" relative="1" as="geometry">
+            <mxPoint y="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-26" value="2023年交付量：&lt;br&gt;210万" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n4Z13ORZ9aHJKsfUeBVT-29" target="n4Z13ORZ9aHJKsfUeBVT-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-28" value="增长20%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#00CC00;" vertex="1" connectable="0" parent="n4Z13ORZ9aHJKsfUeBVT-27">
+          <mxGeometry x="0.0253" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#000000;" edge="1" parent="1" source="n4Z13ORZ9aHJKsfUeBVT-29" target="n4Z13ORZ9aHJKsfUeBVT-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-76" value="每辆车平均售价5万美元" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="n4Z13ORZ9aHJKsfUeBVT-69">
+          <mxGeometry x="-0.0159" y="3" relative="1" as="geometry">
+            <mxPoint x="-3" y="-10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-29" value="2024年交付量：&lt;br&gt;273万" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="476.84000000000003" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#00CC00;" edge="1" parent="1" source="n4Z13ORZ9aHJKsfUeBVT-41" target="n4Z13ORZ9aHJKsfUeBVT-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-80" value="净利润率: 17.53%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="n4Z13ORZ9aHJKsfUeBVT-65">
+          <mxGeometry x="0.1853" y="1" relative="1" as="geometry">
+            <mxPoint y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-41" value="2025年销售额：&lt;br&gt;1638亿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="n4Z13ORZ9aHJKsfUeBVT-44" target="n4Z13ORZ9aHJKsfUeBVT-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-43" value="增长40%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#00CC00;" vertex="1" connectable="0" parent="n4Z13ORZ9aHJKsfUeBVT-42">
+          <mxGeometry x="-0.0435" y="-1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#00CC00;" edge="1" parent="1" source="n4Z13ORZ9aHJKsfUeBVT-44" target="n4Z13ORZ9aHJKsfUeBVT-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-66" value="净利润率：11.53%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="n4Z13ORZ9aHJKsfUeBVT-62">
+          <mxGeometry x="-0.0476" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-44" value="2022年销售额：&lt;br&gt;750亿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n4Z13ORZ9aHJKsfUeBVT-47" target="n4Z13ORZ9aHJKsfUeBVT-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-46" value="增长30%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#00CC00;" vertex="1" connectable="0" parent="n4Z13ORZ9aHJKsfUeBVT-45">
+          <mxGeometry x="0.0716" relative="1" as="geometry">
+            <mxPoint x="-6" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontColor=#00CC00;" edge="1" parent="1" source="n4Z13ORZ9aHJKsfUeBVT-47" target="n4Z13ORZ9aHJKsfUeBVT-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-78" value="净利润率: 13.53%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="n4Z13ORZ9aHJKsfUeBVT-63">
+          <mxGeometry x="0.1699" y="-1" relative="1" as="geometry">
+            <mxPoint x="1" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-47" value="2023年销售额：&lt;br&gt;1050亿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="n4Z13ORZ9aHJKsfUeBVT-50" target="n4Z13ORZ9aHJKsfUeBVT-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-49" value="增长20%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#00CC00;" vertex="1" connectable="0" parent="n4Z13ORZ9aHJKsfUeBVT-48">
+          <mxGeometry x="0.0253" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#00CC00;" edge="1" parent="1" source="n4Z13ORZ9aHJKsfUeBVT-50" target="n4Z13ORZ9aHJKsfUeBVT-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-79" value="净利润率: 15.53%" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="n4Z13ORZ9aHJKsfUeBVT-64">
+          <mxGeometry x="0.0463" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-50" value="2024年销售额：&lt;br&gt;1365亿" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="476.84000000000003" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-52" value="2025年净利润：&lt;br&gt;287亿美元" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="670" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-55" value="2022年净利润：&lt;br&gt;86.5亿美元" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="80" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-58" value="2023年净利润：&lt;br&gt;142亿美元" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="280" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-61" value="2024年净利润：&lt;br&gt;212亿美元" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="476.84000000000003" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-81" value="2020-Q3&lt;br&gt;服务收入占比: 6.6%" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="60" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-82" value="2020-Q4&lt;br&gt;服务收入占比: 6.3%" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="200" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-83" value="2021-Q1&lt;br&gt;服务收入占比: 8.6%" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="340" y="860" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-84" value="2021-Q2&lt;br&gt;服务收入占比: 8%" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="476.84" y="860" width="113.16" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-85" value="2021-Q3&lt;br&gt;服务收入占比: 6.5%" style="rounded=1;whiteSpace=wrap;html=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="610" y="860" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-86" value="不同回报率要求下的估值" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="980" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-87" value="12% 要求回报率对应估值： 5,628亿美元" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#000000;" vertex="1" parent="n4Z13ORZ9aHJKsfUeBVT-86">
+          <mxGeometry y="30" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-88" value="11% 要求回报率对应估值： 7,157亿美元" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#000000;" vertex="1" parent="n4Z13ORZ9aHJKsfUeBVT-86">
+          <mxGeometry y="60" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-89" value="10% 要求回报率对应估值： 10,945亿美元" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#000000;" vertex="1" parent="n4Z13ORZ9aHJKsfUeBVT-86">
+          <mxGeometry y="90" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="n4Z13ORZ9aHJKsfUeBVT-90" value="9% 要求回报率对应估值：   22,331亿美元" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;fontColor=#000000;" vertex="1" parent="n4Z13ORZ9aHJKsfUeBVT-86">
+          <mxGeometry y="120" width="250" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
